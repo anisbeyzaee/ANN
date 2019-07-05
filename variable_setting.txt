@@ -1,0 +1,2 @@
+-w		w	 	learningRate	number of inputs	InputLayers		outputLayers	    hiddenUnits   ePoch	 
+-0.04 	0.04  		0.01 	  		6000				784 				10				32			80
